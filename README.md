@@ -20,6 +20,6 @@
 `플레이 스토어 설치한 사용자 수 : 15 (2022.11.30 기준)`
 
 <div align="center">
-<img width="40%" alt="image" src="https://user-images.githubusercontent.com/61959836/204710860-4741e271-a25a-4ad3-abf4-be88399ac02a.PNG">
-<img width="40%" alt="image" src="https://user-images.githubusercontent.com/61959836/204710867-32e42092-f95c-4fd3-bd89-ae1808bc2c99.PNG">
+<img width="20%" alt="image" src="https://user-images.githubusercontent.com/61959836/204710860-4741e271-a25a-4ad3-abf4-be88399ac02a.PNG">
+<img width="20%" alt="image" src="https://user-images.githubusercontent.com/61959836/204710867-32e42092-f95c-4fd3-bd89-ae1808bc2c99.PNG">
 </div>
