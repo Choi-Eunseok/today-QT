@@ -1,0 +1,6 @@
+module Pods_randomBible_randomBibleTests {
+  umbrella header "Pods-randomBible-randomBibleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
