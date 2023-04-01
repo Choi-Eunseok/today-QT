@@ -15,9 +15,9 @@
 
 [플레이스토어](https://play.google.com/store/apps/details?id=com.randombible)
 
-`앱스토어 판매량 : 120 (2023.01.11 기준)`
+`앱스토어 판매량 : 158 (2023.03.30 기준)`
 
-`플레이 스토어 설치한 사용자 수 : 17 (2023.01.11 기준)`
+`플레이 스토어 설치한 사용자 수 : 22 (2023.03.30 기준)`
 
 <div align="center">
 <img width="20%" alt="image" src="https://user-images.githubusercontent.com/61959836/204710860-4741e271-a25a-4ad3-abf4-be88399ac02a.PNG">
